@@ -1,0 +1,6 @@
+require("leon.core.options")
+require("leon.core.keymap")
+require("leon.core.colorscheme")
+require("leon.plugins-setup")
+require("leon.plugins.lualine")
+require("leon.plugins.colorizer")
